@@ -67,7 +67,7 @@ body {
     background: url('/bg-open.jpg');
     background-size: cover;
     padding: 12px;
-    border-radius: 3px;
+    border: 1px solid #e7d7c0;
     box-sizing: border-box;
     cursor: pointer; 
 }
