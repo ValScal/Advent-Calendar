@@ -64,7 +64,7 @@ body {
 }
 
 .door__open {
-    background: url('./assets/img/bg-open.jpg');
+    background: url('/bg-open.jpg');
     background-size: cover;
     padding: 12px;
     border-radius: 3px;
@@ -73,7 +73,7 @@ body {
 }
 
 /* .door__open:nth-last-child(1) {
-    background: url('./assets/img/bg-grinch.jpg');
+    background: url('/bg-grinch.jpg');
 } */
 
 .door__open p {
