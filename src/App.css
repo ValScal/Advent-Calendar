@@ -72,9 +72,9 @@ body {
     cursor: pointer; 
 }
 
-.door__open:last-child {
+/*.door__open:last-child {
     background: url('/bg-grinch.jpg');
-}
+}*/
 
 .door__open p {
     font-size: 1.2rem;
