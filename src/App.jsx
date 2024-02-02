@@ -55,6 +55,9 @@ function App() {
 
    return (
     <div className='container'>
+      <div class="snow">
+        <div></div>
+      </div>
         <h1 className='calendar__title'>Advent Calendar</h1>
         <div className='calendar'>
           {doors.map((door, index) => {
